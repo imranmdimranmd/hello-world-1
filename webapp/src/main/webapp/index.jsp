@@ -6,6 +6,10 @@
         <span class="vl-innertext">or</span>
       </div>
 
+<<<<<<< HEAD
+    <label for="email"><b>Email</b></label>
+    <input type="text" placeholder="Enter imran Email" name="email" id="email" required>
+=======
       <div class="col">
         <a href="#" class="fb btn">
           <i class="fa fa-facebook fa-fw"></i> Login with Facebook
@@ -17,6 +21,7 @@
           <i class="fa fa-google fa-fw"></i> Login with Google+
         </a>
       </div>
+>>>>>>> 97aa5bf8ff5b07a4fd94d89472ed81ac7e1a3811
 
       <div class="col">
         <div class="hide-md-lg">
@@ -34,11 +39,3 @@
 
 <div class="bottom-container">
   <div class="row">
-    <div class="col">
-      <a href="#" style="color:white" class="btn">Sign up</a>
-    </div>
-    <div class="col">
-      <a href="#" style="color:white" class="btn">Forgot password?</a>
-    </div>
-  </div>
-</div>
